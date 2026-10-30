@@ -53,7 +53,7 @@ It implements:
 ### Prerequisites
 - **Node.js**: v18.0.0 or higher
 - **npm**: v9.0.0 or higher
-- **Gemini API Key**: Obtainable from [Google AI Studio](https://aistudio.google.com/)
+
 
 ### 1. Installation
 Clone the repository and install all dependencies:
