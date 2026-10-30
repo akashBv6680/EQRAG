@@ -9,7 +9,7 @@ Live Demo on GitHub Pages:https://akashbv6680.github.io/EQRAG/
 
 Live Demo on Streamlit :https://colpalirag-6vpgpmhcfol8xy2fh5l5y8.streamlit.app/
 
-In streamlit i create the ColpaliRAG it retrieves For tables, charts, diagrams, and image-heavy documentation side.
+In streamlit i created the ColpaliRAG it retrieves For tables, charts, diagrams, and image-heavy documentation side.
 
 ---
 
