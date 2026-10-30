@@ -1,0 +1,6 @@
+{
+  "name": "EverQuint Document Search & Summarization (RAG)",
+  "description": "Hybrid BM25 and vector search, Gemini 3.8 Flash summarization, and automated ROUGE evaluation workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
